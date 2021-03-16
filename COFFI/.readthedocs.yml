@@ -1,8 +1,0 @@
-version: 2
-
-python:
-    install:
-    - requirements: doc/readthedocs/requirements.txt
-
-sphinx:
-    configuration: doc/readthedocs/conf.py
