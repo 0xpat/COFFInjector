@@ -1,0 +1,3 @@
+[submodule "COFFI"]
+	path = COFFI
+	url = https://github.com/serge1/COFFI
