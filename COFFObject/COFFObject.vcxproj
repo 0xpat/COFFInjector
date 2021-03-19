@@ -225,7 +225,6 @@
   <ItemGroup>
     <ClCompile Include="COFFObject.cpp">
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\root\Desktop\RedTeam\obfuscator\build\Release\bin\clang.exe</Command>
     </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
